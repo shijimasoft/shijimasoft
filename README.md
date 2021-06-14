@@ -12,7 +12,7 @@
     * 🎸 C#
     * 🍣 nim
 
-**Required Dependency:**
+**Required Dependencies:**
 
 ```Crystal
 require love
