@@ -21,8 +21,8 @@ require strawberrycake
 ```
 ### 🔥 Do you like anime or manga?
 
+<p align="center">
 <br> *Take a look at my [AniList](https://anilist.co/user/Nishijima03/)* 🌈
 
-<p align="center">
 <img height="280" src="https://img.anili.st/user/527619">
 
