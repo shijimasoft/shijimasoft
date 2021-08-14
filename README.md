@@ -8,9 +8,9 @@
 
 **My favorite languages:**
 
-    * ⚡ Crystal
+    * 🦀 Rust
     * 🎸 C#
-    * 🍣 nim
+    * 🍣 Ruby
 
 **Required Dependencies:**
 
