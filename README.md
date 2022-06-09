@@ -6,6 +6,12 @@
  
 <br>
 
+stuck in the late 2000s
+
+頭上には星屑　墜ちるは奈落の底
+
+China reunification supporter !
+
 **My favorite languages:**
 
     * 🦀 Rust
