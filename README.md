@@ -1,27 +1,20 @@
-## *Hello travelers* 🌻
+## Hello!
+*Alessio Incampo, hobbyist Developer and Pharmacy student*
 
-<br>
-
-> 💭 "Fun is a serious thing."
- 
-<br>
-
-**My favorite languages:**
-
-    * 🦀 Rust
-    * 🎸 C#
-    * 🍣 Ruby
-
-**Required Dependencies:**
-
-```Crystal
-require love
-require sweetcoffee
-require strawberrycake
+```csharp
+* Language: Rust, Ruby, Crystal, Python
+* System: macOS
+* Country: Italy
 ```
-### 🔥 Do you like anime or manga?
+<br>
 
-<br><p align="center">*Take a look at my [AniList](https://anilist.co/user/Nishijima03/)* 🌈
+My **dependencies**
+```Crystal
+require monster
+require ramen ラーメン
+require baozi 包子
+```
 
-<p align="center"><img height="280" src="https://img.anili.st/user/527619">
+<br><p align="center">Do you like anime or manga? *Take a look at my [AniList](https://anilist.co/user/Nishijima03/)* 👀
 
+<p align="center"><img width=70% height=70% src="https://img.anili.st/user/527619">
